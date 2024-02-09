@@ -1,0 +1,3 @@
+criar ambiente virtual -> python3 -m venv .venv
+ativar ambiente -> . .venv/bin/activate
+gerar txt das dependencias -> .venv/bin/pip3 freeze > requirements.txt
